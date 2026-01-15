@@ -118,7 +118,7 @@ scene.add(bgSphere);
 let text;
 function initScene(res) {
   const font = new Font(res);
-  text = createText({ font, message: "Three.js" });
+  text = createText({ font, message: "BENSAAD MOHAMMED" });
   scene.add(text);
   animate();
 }
